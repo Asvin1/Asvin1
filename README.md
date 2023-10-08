@@ -10,7 +10,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Asvin1&show_icons=true&hide_rank=true&hide_border=true&theme=gruvbox"/> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asvin1&theme=gruvbox"/>
   </p>
-  <img src="https://holopin.me/asvin"/>
+  
+  [![An image of @asvin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asvin)](https://holopin.io/@asvin)
 <!---
 Asvin1/Asvin1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
