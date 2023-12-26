@@ -1,3 +1,4 @@
+![Animation by me](https://raw.githubusercontent.com/Asvin1/Asvin1/main/src/anm.gif)
 - **👋 Hi, I’m Asvin**
 - **👀 I’m interested in anything computers.**
 - **Current experience:** <br />![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
