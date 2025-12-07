@@ -7,10 +7,6 @@
 - **Misc.:** <br/>
 <a href="https://www.credly.com/badges/43dfb3e2-cbdb-4877-8625-672bbf9416ad/public_url"><img width=20% height=20% src="https://images.credly.com/images/d62dcf8f-1ad4-42d4-9a07-1c59e2d5d9e9/image.png"/></a>
 <br/>
-<p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Asvin1&show_icons=true&hide_rank=true&hide_border=true&theme=gruvbox"/> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asvin1&theme=gruvbox"/>
-  </p>
 <!---
 Asvin1/Asvin1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
